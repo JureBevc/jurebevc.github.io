@@ -1,0 +1,29 @@
+baseUrl: "http://jurebevc.github.io/"
+languageCode: "en-us"
+title: "Protfolio"
+theme:  "hugo-PaperMod"
+
+
+menu:
+    main:
+        - name: Home
+          url: /
+          weight: 1
+        - name: Tags
+          url: tags/
+          weight: 1
+    
+params:
+    env: production
+    author: Jure Bevc
+    homeInfoParams:
+        Title: Hi,
+        Content: "feel free to take a browse the projects below."
+
+    socialIcons: # optional
+        - name: email
+          url: "mailto:bevc.jure@gmail.com"
+        - name: twitter
+          url: "https://twitter.com/OrbitHex"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/jure-bevc-4691921ba/"
