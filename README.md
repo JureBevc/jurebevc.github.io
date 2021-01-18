@@ -1,2 +1,2 @@
 # jurebevc.github.io
-Github page for projects
+Github page for project showcase
