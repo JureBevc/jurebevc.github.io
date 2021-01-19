@@ -3,6 +3,8 @@ languageCode: "en-us"
 title: "Protfolio"
 theme:  "hugo-PaperMod"
 
+staticDir: 
+  - static
 
 menu:
     main:

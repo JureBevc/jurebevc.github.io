@@ -1,11 +1,12 @@
 ---
-title: "Info"
-summary: Website information
+title: "Welcome - Info"
+summary: General website information
 weight: 1
 aliases: ["/test"]
 tags: ["Web"]
-author: "Jure Bevc"
+author: " "
 draft: false
+image: "wave.png"
 ---
 
 Hi there, this site is maintained by me - Jure Bevc. 
