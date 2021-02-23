@@ -1,6 +1,6 @@
 baseUrl: "http://jurebevc.github.io/"
 languageCode: "en-us"
-title: "Protfolio"
+title: "Jure Bevc"
 theme:  "hugo-PaperMod"
 
 staticDir: 
@@ -20,11 +20,13 @@ params:
     author: Jure Bevc
     homeInfoParams:
         Title: Hi,
-        Content: "feel free to take a browse the projects below."
+        Content: "feel free to a browse my projects below."
 
     socialIcons: # optional
         - name: email
           url: "mailto:bevc.jure@gmail.com"
+        - name: github
+          url: "https://github.com/JureBevc"
         - name: twitter
           url: "https://twitter.com/OrbitHex"
         - name: linkedin
