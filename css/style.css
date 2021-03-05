@@ -14,6 +14,15 @@ body {
   font-family: "CustomFont";
 }
 
+h1 {
+  font-weight: bold;
+  font-size: 60px;
+}
+
+p {
+  font-size: large;
+}
+
 .navbar {
   padding-left: 20%;
   padding-right: 20%;
@@ -35,22 +44,28 @@ body {
 }
 
 .section {
-  text-align: center;
   width: 100%;
   height: fit-content;
   overflow: hidden;
-  padding-top: 4%;
-  padding-bottom: 4%;
+  padding-top: 2%;
+  padding-bottom: 2%;
   padding-left: 25%;
   padding-right: 25%;
 }
 
 .section-color1 {
+  background-image: url("../res/back8.png");
   background-color: #457b9d;
   color: #f1faee;
 }
 
 .section-color2 {
+  background-image: url("../res/back5.jpg");
+  background-color: #f1faee;
+  color: #1b1b1e;
+}
+
+.section-color2-noimage {
   background-color: #f1faee;
   color: #1b1b1e;
 }
