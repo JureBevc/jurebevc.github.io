@@ -1,0 +1,56 @@
+/* https://coolors.co/f7f0f5-1b1b1e-63adf2-e4572e-decbb7 */
+
+@font-face {
+  font-family: "CustomFont";
+  src: url("../fonts/PTSans-Regular.ttf");
+}
+@font-face {
+  font-family: "CustomFontBold";
+  src: url("../fonts/PTSans-Bold.ttf");
+}
+
+body {
+  background-color: #f1faee;
+  font-family: "CustomFont";
+}
+
+.navbar {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.navbar-brand {
+  margin-left: 0px;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.nav-link {
+  font-weight: bold;
+  font-size: large;
+}
+
+.social-icon {
+  max-height: 25px;
+}
+
+.section {
+  text-align: center;
+  width: 100%;
+  height: fit-content;
+  overflow: hidden;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+.section-color1 {
+  background-color: #457b9d;
+  color: #f1faee;
+}
+
+.section-color2 {
+  background-color: #f1faee;
+  color: #1b1b1e;
+}
