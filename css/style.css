@@ -48,7 +48,7 @@ p {
 }
 
 .navbar {
-  background-color: #f1faee;
+  background: transparent;
   padding-left: 20%;
   padding-right: 20%;
 }
@@ -94,8 +94,14 @@ p {
 }
 
 .section-color2-noimage {
-  background-color: #f1faee;
+  background: transparent;
   color: #1b1b1e;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.navigation-background{
+  background-image: url("../res/back5.jpg");
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
 }
