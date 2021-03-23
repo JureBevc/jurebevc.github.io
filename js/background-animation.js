@@ -19,6 +19,7 @@ document.addEventListener("DOMContentLoaded", init);
 function init() {
   canvas = document.getElementById("background-canvas");
   ctx = canvas.getContext("2d");
+  ctx.translate(0.5, 0.5);
   ctx.imageSmoothingEnabled = true;
   resizeReset();
   initialiseElements();
@@ -28,6 +29,8 @@ function init() {
 function resizeReset() {
   w = canvas.width = window.innerHeight;
   h = canvas.height = window.innerHeight;
+  $("#canvas").attr("width", "" + w);
+  $("#canvas").attr("height", "" + h);
 }
 
 function initialiseElements() {

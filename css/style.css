@@ -117,3 +117,7 @@ p {
 .post-image {
   border-radius: 5%;
 }
+
+.animate-image{
+  opacity: 0;
+}
