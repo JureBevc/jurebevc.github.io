@@ -4,8 +4,8 @@ var options = {
   backgroundColor: "#1B1B1E",
   particleColor: "rgba(255,255,255)",
   lineColor: "rgba(247,240,245)",
-  particleAmount: 30,
-  defaultRadius: 1,
+  particleAmount: 80,
+  defaultRadius: 2,
   variantRadius: 0.5,
   defaultSpeed: 0.5,
   variantSpeed: 0.2,
@@ -21,16 +21,15 @@ function init() {
   ctx = canvas.getContext("2d");
   ctx.translate(0.5, 0.5);
   ctx.imageSmoothingEnabled = true;
+  ctx.filter = 'blur(0px)';
   resizeReset();
   initialiseElements();
   startAnimation();
 }
 
 function resizeReset() {
-  w = canvas.width = window.innerHeight;
-  h = canvas.height = window.innerHeight;
-  $("#canvas").attr("width", "" + w);
-  $("#canvas").attr("height", "" + h);
+  w = canvas.width = window.innerHeight * 2;
+  h = canvas.height = window.innerHeight * 2;
 }
 
 function initialiseElements() {
