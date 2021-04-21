@@ -5,11 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>Jure Bevc</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-    />
+    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -36,7 +32,7 @@
           <ul class="navbar-nav w-100 justify-content-left"></ul>
           <ul class="navbar-nav w-100 justify-content-center">
             <li class="nav-item active">
-              <a class="navbar-brand d-flex w-50 mr-auto" href="index.html"
+              <a class="navbar-brand d-flex w-50 mr-auto" href="#"
                 >{
                 <div
                   style="
@@ -49,7 +45,7 @@
                 </div>
                 }</a
               >
-              <ul class="navbar-nav w-100 justify-content-left animate__animated animate__bounceIn">
+              <ul class="navbar-nav w-100 justify-content-left">
                 <li class="nav-item active">
                   <a
                     class="nav-link"
@@ -88,70 +84,23 @@
           </ul>
         </div>
       </nav>
-
-      <div class="section section-color2-noimage">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm">
-              <h1>Hello,</h1>
-              <p>feel free to browse my projects below.</p>
-            </div>
-            <div class="col-sm"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div id="first-project-section" class="section section-color1">
-      <div class="row">
-        <div class="col-sm">
-          <img src="res/spider-web.jpg" class="animate-image img-fluid post-image" />
-        </div>
-        <div class="col-sm" style="text-align: right">
-          <h2>Web crawler</h2>
-          <p>
-            A general-purpose web scraper built in Python, including a simple
-            GUI for ease of use.
-          </p>
-          <a type="button" class="btn btn-light animate-image" href="web-scraper.html">
-            View details</a>
-        </div>
-      </div>
-    </div>
-
-    <div class="section section-color2">
-      <div class="row">
-        <div class="col-sm">
-          <h2>Neural networks with genetic algorithms</h2>
-          <p>
-            Training neural networks using genetic algorithms in a video game
-            enviroment.
-          </p>
-          <a type="button" class="btn btn-dark animate-image" href="details.html">
-            View details</a>
-        </div>
-        <div class="col-sm" style="text-align: right">
-          <img
-            src="res/circuits-5076888_1280.png"
-            class="animate-image img-fluid post-image"
-          />
-        </div>
-      </div>
     </div>
 
     <div class="section section-color1">
-      <div class="row">
-        <div class="col-sm">
-          <img src="res/code.jpg" class="animate-image img-fluid post-image" />
-        </div>
-        <div class="col-sm" style="text-align: right">
-          <h2>Website portfolio</h2>
-          <p>
-            If you're interested how this website portfolio was made, you can
-            read more about it here.
-          </p>
-          <a type="button" class="btn btn-light animate-image" href="details.html">
-            View details</a>
+      <div class="container">
+        <div class="row">
+            <h1>Web crawler</h1>
+            <p>
+              Since there are not many free tools available for quick and easy web scraping, I created my own web crawler for basic data scraping.
+              The project is available on my <a href="https://github.com/JureBevc/GeneralPurposeScraper">GitHub</a>.
+            </p>
+            <p>
+              The web crawler uses the <i>selenium</i> framework with the <i>geckodriver</i> web driver to scrape websites and the <i>Tkinter</i> toolkit to create a simple GUI for quick use:
+            </p>
+            <img src="res/scraper-gui.png" style="width: 50%;">
+            <p>
+              This crawler was used to scrape over 4000 vaccination tweets from Twitter. The dataset is available on <a href="https://www.kaggle.com/neonian/vaccination-tweets" target="_blank">Kaggle.</a>
+            </p>
         </div>
       </div>
     </div>
@@ -159,7 +108,7 @@
     <div
       id="info-section"
       class="section section-color2 contact"
-      style="padding-bottom: 500px"
+      style="padding-bottom: 200px"
     >
       <h2>Info</h2>
 
@@ -185,7 +134,7 @@
           <td>bevc.jure@gmail.com</td>
         </tr>
       </table>
-      <a type="button" class="btn btn-dark animate-image" href="res/Jure-Bevc.pdf" download>
+      <a type="button" class="btn btn-dark" href="res/Jure-Bevc.pdf" download>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="16"
@@ -206,13 +155,11 @@
     </div>
 
     <canvas id="background-canvas"></canvas>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0"
       crossorigin="anonymous"
     ></script>
     <script src="js/background-animation.js"></script>
-    <script src="js/css_animation.js"></script>
   </body>
 </html>

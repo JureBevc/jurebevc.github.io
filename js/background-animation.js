@@ -21,7 +21,6 @@ function init() {
   ctx = canvas.getContext("2d");
   ctx.translate(0.5, 0.5);
   ctx.imageSmoothingEnabled = true;
-  ctx.filter = 'blur(0px)';
   resizeReset();
   initialiseElements();
   startAnimation();

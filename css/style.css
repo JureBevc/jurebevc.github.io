@@ -47,6 +47,15 @@ p {
   font-size: large;
 }
 
+a {
+  color: #f1faee;
+}
+
+a:hover {
+  color: #f1faee;
+  font-weight: bold;
+}
+
 .navbar {
   background: transparent;
   padding-left: 20%;
@@ -100,7 +109,7 @@ p {
   border-bottom-right-radius: 10px;
 }
 
-.navigation-background{
+.navigation-background {
   background-image: url("../res/back5.jpg");
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
@@ -118,6 +127,6 @@ p {
   border-radius: 5%;
 }
 
-.animate-image{
+.animate-image {
   opacity: 0;
 }
