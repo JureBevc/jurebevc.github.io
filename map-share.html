@@ -7,10 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-    />
-    <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
       rel="stylesheet"
       integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl"
@@ -40,7 +36,7 @@
           <ul class="navbar-nav w-100 justify-content-left"></ul>
           <ul class="navbar-nav w-100 justify-content-center">
             <li class="nav-item active">
-              <a class="navbar-brand d-flex w-50 mr-auto" href="index.html"
+              <a class="navbar-brand d-flex w-50 mr-auto" href="#"
                 >{
                 <div
                   style="
@@ -53,14 +49,7 @@
                 </div>
                 }</a
               >
-              <ul
-                class="
-                  navbar-nav
-                  w-100
-                  justify-content-left
-                  animate__animated animate__bounceIn
-                "
-              >
+              <ul class="navbar-nav w-100 justify-content-left">
                 <li class="nav-item active">
                   <a
                     class="nav-link"
@@ -99,155 +88,42 @@
           </ul>
         </div>
       </nav>
-
-      <div class="section section-color2-noimage">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm">
-              <h1>Hello,</h1>
-              <p>feel free to browse my projects below.</p>
-            </div>
-            <div class="col-sm"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div id="first-project-section" class="section section-color1">
-      <div class="row">
-        <div class="col-sm">
-          <img
-            src="res/spider-web.jpg"
-            class="animate-image img-fluid post-image"
-          />
-        </div>
-        <div class="col-sm" style="text-align: right">
-          <h2>Web crawler</h2>
-          <p>
-            A general-purpose web scraper built in Python, including a simple
-            GUI for ease of use.
-          </p>
-          <a
-            type="button"
-            class="btn btn-light animate-image"
-            href="web-scraper.html"
-          >
-            View details</a
-          >
-        </div>
-      </div>
-    </div>
-
-    <div class="section section-color2">
-      <div class="row">
-        <div class="col-sm">
-          <h2>MapShare</h2>
-          <p>
-            A photo sharing app where you can take and view pictures of places
-            and people across the globe.
-          </p>
-          <a
-            type="button"
-            class="btn btn-dark animate-image"
-            href="map-share.html"
-          >
-            View details</a
-          >
-        </div>
-        <div class="col-sm" style="text-align: right">
-          <img
-            src="res/mapshare-logo.png"
-            class="animate-image img-fluid post-image"
-            style="width: 80%"
-          />
-        </div>
-      </div>
     </div>
 
     <div class="section section-color1">
-      <div class="row">
-        <div class="col-sm">
-          <img
-            src="res/circuits-5076888_1280.png"
-            class="animate-image img-fluid post-image"
-          />
-        </div>
-        <div class="col-sm" style="text-align: right">
-          <h2>Neural networks with genetic algorithms</h2>
+      <div class="container">
+        <div class="row">
+          <h1>MapShare</h1>
           <p>
-            Training neural networks using genetic algorithms in a video game
-            enviroment.
+            With MapShare you can take photos and share them with people across
+            the entire world map. The user can take pictures and publish them on
+            the world map at their current location. All users can then browse
+            the map and see what other people have published. Any published
+            content is removed from the map after 24 hours.
           </p>
-          <a
-            type="button"
-            class="btn btn-light animate-image"
-            href="genetic-neural-networks.html"
-          >
-            View details</a
-          >
+          <p>
+            This project was developed using React Native with
+            <a href="https://expo.io/">Expo</a> and
+            <a href="https://firebase.google.com/">Firebase</a>.
+          </p>
+          <img src="res/mapshare-screen1.jpg" style="width: 30%" />
+          <img src="res/mapshare-screen3.jpg" style="width: 30%" />
+          <img src="res/mapshare-screen2.jpg" style="width: 30%" />
+
+          <p>
+            This app was build as a proof of concept. The source code of this
+            project as well as a pre-release demo is available on my
+            <a href="https://github.com/JureBevc/mapshare">GitHub</a>. The
+            current build is only supported for Android devices.
+          </p>
         </div>
       </div>
-    </div>
-
-    <div class="section section-color2">
-      <div class="row">
-        <div class="col-sm">
-          <h2>Musical series</h2>
-          <p>
-            Ever wondered how famous series of numbers (like Fibonacci or digits
-            of Pi) would sound when played as music? Listen and experiment with
-            your own ideas with this simple tool.
-          </p>
-          <a
-            type="button"
-            class="btn btn-dark animate-image"
-            href="musical-series-details.html"
-          >
-            View details</a
-          >
-        </div>
-        <div class="col-sm" style="text-align: right">
-          <img
-            src="res/music-thumbnail.jpg"
-            class="animate-image img-fluid post-image"
-          />
-        </div>
-      </div>
-    </div>
-
-    <div class="section section-color1">
-      <div class="row">
-        <div class="col-sm">
-          <img
-            src="res/ludum-dare.png"
-            class="animate-image img-fluid post-image"
-          />
-        </div>
-        <div class="col-sm" style="text-align: right">
-          <h2>Game jams</h2>
-          <p>
-            Games that are created in a short amount of time on a specific
-            theme.
-          </p>
-          <a
-            type="button"
-            class="btn btn-light animate-image"
-            href="game-jams.html"
-          >
-            View details</a
-          >
-        </div>
-      </div>
-    </div>
-
-    <div class="section section-color1">
-      <div class="row"></div>
     </div>
 
     <div
       id="info-section"
       class="section section-color2 contact"
-      style="padding-bottom: 500px"
+      style="padding-bottom: 200px"
     >
       <h2>Info</h2>
 
@@ -273,12 +149,7 @@
           <td>bevc.jure@gmail.com</td>
         </tr>
       </table>
-      <a
-        type="button"
-        class="btn btn-dark animate-image"
-        href="res/Jure-Bevc.pdf"
-        download
-      >
+      <a type="button" class="btn btn-dark" href="res/Jure-Bevc.pdf" download>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="16"
@@ -299,13 +170,11 @@
     </div>
 
     <canvas id="background-canvas"></canvas>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0"
       crossorigin="anonymous"
     ></script>
     <script src="js/background-animation.js"></script>
-    <script src="js/css_animation.js"></script>
   </body>
 </html>
