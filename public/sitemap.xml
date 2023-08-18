@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jurebevc.com/</loc>
+    <loc>/</loc>
     <lastmod>2023-08-18T17:41:32+02:00</lastmod>
   </url><url>
-    <loc>https://jurebevc.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2023-08-18T17:41:32+02:00</lastmod>
   </url><url>
-    <loc>https://jurebevc.com/tags/python/</loc>
+    <loc>/tags/python/</loc>
     <lastmod>2023-08-18T17:41:32+02:00</lastmod>
   </url><url>
-    <loc>https://jurebevc.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-08-18T17:41:32+02:00</lastmod>
   </url><url>
-    <loc>https://jurebevc.com/posts/web-crawler/</loc>
+    <loc>/posts/web-crawler/</loc>
     <lastmod>2023-08-18T17:41:32+02:00</lastmod>
   </url><url>
-    <loc>https://jurebevc.com/tags/firebase/</loc>
+    <loc>/tags/firebase/</loc>
     <lastmod>2023-08-18T17:41:25+02:00</lastmod>
   </url><url>
-    <loc>https://jurebevc.com/posts/map-share/</loc>
+    <loc>/posts/map-share/</loc>
     <lastmod>2023-08-18T17:41:25+02:00</lastmod>
   </url><url>
-    <loc>https://jurebevc.com/tags/react/</loc>
+    <loc>/tags/react/</loc>
     <lastmod>2023-08-18T17:41:25+02:00</lastmod>
   </url><url>
-    <loc>https://jurebevc.com/tags/react-native/</loc>
+    <loc>/tags/react-native/</loc>
     <lastmod>2023-08-18T17:41:25+02:00</lastmod>
   </url><url>
-    <loc>https://jurebevc.com/tags/ai/</loc>
+    <loc>/tags/ai/</loc>
     <lastmod>2023-08-18T17:41:17+02:00</lastmod>
   </url><url>
-    <loc>https://jurebevc.com/posts/neural-networks-with-genetic-algorithms/</loc>
+    <loc>/posts/neural-networks-with-genetic-algorithms/</loc>
     <lastmod>2023-08-18T17:41:17+02:00</lastmod>
   </url><url>
-    <loc>https://jurebevc.com/tags/javascript/</loc>
+    <loc>/tags/javascript/</loc>
     <lastmod>2023-08-18T17:40:52+02:00</lastmod>
   </url><url>
-    <loc>https://jurebevc.com/posts/musical-series/</loc>
+    <loc>/posts/musical-series/</loc>
     <lastmod>2023-08-18T17:40:52+02:00</lastmod>
   </url><url>
-    <loc>https://jurebevc.com/posts/game-jams/</loc>
+    <loc>/posts/game-jams/</loc>
     <lastmod>2023-08-18T17:27:04+02:00</lastmod>
   </url><url>
-    <loc>https://jurebevc.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>

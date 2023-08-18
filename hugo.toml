@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = ""
 title = "Jure Bevc"
 paginate = 5
 theme = "PaperMod"
