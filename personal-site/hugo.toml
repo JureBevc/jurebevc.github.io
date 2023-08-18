@@ -1,0 +1,37 @@
+baseURL = 'https://jurebevc.github.io/'
+languageCode = 'en-us'
+title = 'Jure Bevc'
+theme = "mainroad"
+paginate = "10"
+
+[Author] # Used in authorbox
+  name = "Jure Bevc"
+  bio = "Professional tinkerer."
+
+
+[Params.logo]
+  image = "img/logo.png" # Logo image. Path relative to "static"
+  title = "Jure Bevc" # Logo title, otherwise will use site title
+  subtitle = "Professional tinkerer" # Logo subtitle
+
+[Params.thumbnail]
+  visibility = ["list", "post"] # Control thumbnail visibility
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+  recent_num = 3 # Set the number of articles in the "Recent articles" widget
+  categories_counter = false # Enable counter for each category in "Categories" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  cached = false # activate cache if true
+  # Enable parts of social widget
+  linkedin = "https://www.linkedin.com/in/jure-bevc-4691921ba/"
+  github = "https://github.com/JureBevc"
+  email = "bevc.jure@gmail.com"
