@@ -1,37 +1,116 @@
-baseURL = 'https://jurebevc.github.io/'
-languageCode = 'en-us'
-title = 'Jure Bevc'
-theme = "mainroad"
-paginate = "10"
+baseURL = "https://jurebevc.com/"
+title = "Jure Bevc"
+paginate = 5
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+googleAnalytics = "UA-123-45"
+pygmentsUseClasses = true
 
-[Author] # Used in authorbox
-  name = "Jure Bevc"
-  bio = "Professional tinkerer."
+[minify]
+disableXML = true
+minifyOutput = true
 
+[params]
+env = "production"
+title = "ExampleSite"
+description = "ExampleSite description"
+keywords = [ "Blog", "Portfolio", "PaperMod" ]
+author = "Me"
+images = [ "<link or path of image for opengraph, twitter-cards>" ]
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+ShowWordCount = true
+ShowRssButtonInSectionTermList = true
+UseHugoToc = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
 
-[Params.logo]
-  image = "img/logo.png" # Logo image. Path relative to "static"
-  title = "Jure Bevc" # Logo title, otherwise will use site title
-  subtitle = "Professional tinkerer" # Logo subtitle
+  [params.assets]
+  favicon = "<link / abs url>"
+  favicon16x16 = "<link / abs url>"
+  favicon32x32 = "<link / abs url>"
+  apple_touch_icon = "<link / abs url>"
+  safari_pinned_tab = "<link / abs url>"
 
-[Params.thumbnail]
-  visibility = ["list", "post"] # Control thumbnail visibility
+  [params.label]
+  text = " "
+  icon = "/apple-touch-icon.png"
+  iconHeight = 35
 
-[Params.sidebar]
-  home = "right" # Configure layout for home page
-  list = "left"  # Configure layout for list pages
-  single = false # Configure layout for single pages
-  # Enable widgets in given order
-  widgets = ["recent", "categories", "taglist", "social", "languages"]
+  [params.profileMode]
+  enabled = false
+  title = "ExampleSite"
+  subtitle = "This is subtitle"
+  imageUrl = "<img location>"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "my image"
 
-[Params.widgets]
-  recent_num = 3 # Set the number of articles in the "Recent articles" widget
-  categories_counter = false # Enable counter for each category in "Categories" widget
-  tags_counter = false # Enable counter for each tag in "Tags" widget
+    [[params.profileMode.buttons]]
+    name = "Posts"
+    url = "posts"
 
-[Params.widgets.social]
-  cached = false # activate cache if true
-  # Enable parts of social widget
-  linkedin = "https://www.linkedin.com/in/jure-bevc-4691921ba/"
-  github = "https://github.com/JureBevc"
-  email = "bevc.jure@gmail.com"
+    [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
+
+  [params.homeInfoParams]
+  Title = "Jure Bevc"
+  Content = "Professional tinkerer"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/jure-bevc-4691921ba/"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/JureBevc"
+
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:bevc.jure@gmail.com"
+
+[params.analytics.google]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.bing]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.yandex]
+SiteVerificationTag = "XYZabc"
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+  [params.editPost]
+  URL = "https://github.com/<path_to_repo>/content"
+  Text = "Suggest Changes"
+  appendFilePath = true
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[markup.highlight]
+noClasses = false

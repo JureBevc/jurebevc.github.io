@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Javascript on Jure Bevc</title>
-    <link>https://jurebevc.github.io/tags/javascript/</link>
+    <link>https://jurebevc.com/tags/javascript/</link>
     <description>Recent content in Javascript on Jure Bevc</description>
+    <image>
+      <title>Jure Bevc</title>
+      <url>https://jurebevc.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jurebevc.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 Aug 2023 17:40:52 +0200</lastBuildDate><atom:link href="https://jurebevc.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Aug 2023 17:40:52 +0200</lastBuildDate><atom:link href="https://jurebevc.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Musical series</title>
-      <link>https://jurebevc.github.io/posts/musical-series/</link>
+      <link>https://jurebevc.com/posts/musical-series/</link>
       <pubDate>Fri, 18 Aug 2023 17:40:52 +0200</pubDate>
       
-      <guid>https://jurebevc.github.io/posts/musical-series/</guid>
+      <guid>https://jurebevc.com/posts/musical-series/</guid>
       <description>There are several wonderful ways to visualize and represent numbers, but one that interesed me the most is doing it through music. Since there are no simple and widely available tools to transform arbitrary numbers into music, I decided to make my own.
 The most popular musical scales are the major and the minor scales, each with 7 unique notes. One can simply translate a number to a musical scale, by playing the first note for number 0, the second note for number 1 and so on.</description>
     </item>
