@@ -24,7 +24,7 @@ DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
 ShowReadingTime = true
-ShowShareButtons = true
+ShowShareButtons = false
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = false
@@ -38,6 +38,7 @@ hidemeta = false
 hideSummary = false
 showtoc = false
 tocopen = false
+hideFooter = true
 
   [params.assets]
   favicon = "<link / abs url>"
