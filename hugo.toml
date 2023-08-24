@@ -39,6 +39,7 @@ hideSummary = false
 showtoc = false
 tocopen = false
 hideFooter = true
+hideAuthor = true
 
   [params.assets]
   favicon = "<link / abs url>"
@@ -98,11 +99,6 @@ SiteVerificationTag = "XYZabc"
   hidden = true
   hiddenInList = true
   hiddenInSingle = true
-
-  [params.editPost]
-  URL = "https://github.com/<path_to_repo>/content"
-  Text = "Suggest Changes"
-  appendFilePath = true
 
   [params.fuseOpts]
   isCaseSensitive = false

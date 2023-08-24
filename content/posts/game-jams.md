@@ -1,6 +1,6 @@
 ---
 title: "Game Jams"
-date: 2023-08-18T17:27:04+02:00
+date: 2018-08-18T17:27:04+02:00
 draft: false
 ---
 

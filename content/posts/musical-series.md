@@ -1,6 +1,6 @@
 ---
 title: "Musical series"
-date: 2023-08-18T17:40:52+02:00
+date: 2020-08-18T17:40:52+02:00
 draft: false
 
 tags:

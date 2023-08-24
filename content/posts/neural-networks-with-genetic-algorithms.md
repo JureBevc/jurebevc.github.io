@@ -1,6 +1,6 @@
 ---
 title: "Neural networks with genetic algorithms"
-date: 2023-08-18T17:41:17+02:00
+date: 2019-08-18T17:41:17+02:00
 draft: false
 
 tags:
