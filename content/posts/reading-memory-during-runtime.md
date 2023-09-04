@@ -1,5 +1,5 @@
 ---
-title: "Reading Memory During Runtime"
+title: "Reading memory during runtime"
 date: 2023-08-19T12:36:58+02:00
 draft: false
 
