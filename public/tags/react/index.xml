@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>React on Jure Bevc</title>
+    <link>http://localhost:8000/tags/react/</link>
+    <description>Recent content in React on Jure Bevc</description>
+    <image>
+      <title>Jure Bevc</title>
+      <url>http://localhost:8000/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:8000/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Aug 2021 17:41:25 +0200</lastBuildDate><atom:link href="http://localhost:8000/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Map share</title>
+      <link>http://localhost:8000/posts/map-share/</link>
+      <pubDate>Wed, 18 Aug 2021 17:41:25 +0200</pubDate>
+      
+      <guid>http://localhost:8000/posts/map-share/</guid>
+      <description>With MapShare you can take photos and share them with people across the entire world map. The user can take pictures and publish them on the world map at their current location. All users can then browse the map and see what other people have published. Any published content is removed from the map after 24 hours.
+This project was developed using React Native with Expo and Firebase.
+This app was build as a proof of concept.</description>
+    </item>
+    
+  </channel>
+</rss>

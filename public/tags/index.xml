@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Jure Bevc</title>
+    <link>http://localhost:8000/tags/</link>
+    <description>Recent content in Tags on Jure Bevc</description>
+    <image>
+      <title>Jure Bevc</title>
+      <url>http://localhost:8000/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:8000/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Jan 2025 21:14:30 +0200</lastBuildDate><atom:link href="http://localhost:8000/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deployment</title>
+      <link>http://localhost:8000/tags/deployment/</link>
+      <pubDate>Fri, 03 Jan 2025 21:14:30 +0200</pubDate>
+      
+      <guid>http://localhost:8000/tags/deployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>http://localhost:8000/tags/go/</link>
+      <pubDate>Fri, 03 Jan 2025 21:14:30 +0200</pubDate>
+      
+      <guid>http://localhost:8000/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tool</title>
+      <link>http://localhost:8000/tags/tool/</link>
+      <pubDate>Fri, 03 Jan 2025 21:14:30 +0200</pubDate>
+      
+      <guid>http://localhost:8000/tags/tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptography</title>
+      <link>http://localhost:8000/tags/cryptography/</link>
+      <pubDate>Sun, 03 Sep 2023 21:14:30 +0200</pubDate>
+      
+      <guid>http://localhost:8000/tags/cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>http://localhost:8000/tags/data/</link>
+      <pubDate>Sun, 03 Sep 2023 21:14:30 +0200</pubDate>
+      
+      <guid>http://localhost:8000/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Databases</title>
+      <link>http://localhost:8000/tags/databases/</link>
+      <pubDate>Sun, 03 Sep 2023 21:14:30 +0200</pubDate>
+      
+      <guid>http://localhost:8000/tags/databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory</title>
+      <link>http://localhost:8000/tags/memory/</link>
+      <pubDate>Sat, 19 Aug 2023 12:36:58 +0200</pubDate>
+      
+      <guid>http://localhost:8000/tags/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:8000/tags/python/</link>
+      <pubDate>Sat, 19 Aug 2023 12:36:58 +0200</pubDate>
+      
+      <guid>http://localhost:8000/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firebase</title>
+      <link>http://localhost:8000/tags/firebase/</link>
+      <pubDate>Wed, 18 Aug 2021 17:41:25 +0200</pubDate>
+      
+      <guid>http://localhost:8000/tags/firebase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>http://localhost:8000/tags/react/</link>
+      <pubDate>Wed, 18 Aug 2021 17:41:25 +0200</pubDate>
+      
+      <guid>http://localhost:8000/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React native</title>
+      <link>http://localhost:8000/tags/react-native/</link>
+      <pubDate>Wed, 18 Aug 2021 17:41:25 +0200</pubDate>
+      
+      <guid>http://localhost:8000/tags/react-native/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>http://localhost:8000/tags/javascript/</link>
+      <pubDate>Tue, 18 Aug 2020 17:40:52 +0200</pubDate>
+      
+      <guid>http://localhost:8000/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>http://localhost:8000/tags/ai/</link>
+      <pubDate>Sun, 18 Aug 2019 17:41:17 +0200</pubDate>
+      
+      <guid>http://localhost:8000/tags/ai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

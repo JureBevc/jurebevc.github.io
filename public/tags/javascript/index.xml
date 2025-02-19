@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Javascript on Jure Bevc</title>
+    <link>http://localhost:8000/tags/javascript/</link>
+    <description>Recent content in Javascript on Jure Bevc</description>
+    <image>
+      <title>Jure Bevc</title>
+      <url>http://localhost:8000/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:8000/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Aug 2020 17:40:52 +0200</lastBuildDate><atom:link href="http://localhost:8000/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Musical series</title>
+      <link>http://localhost:8000/posts/musical-series/</link>
+      <pubDate>Tue, 18 Aug 2020 17:40:52 +0200</pubDate>
+      
+      <guid>http://localhost:8000/posts/musical-series/</guid>
+      <description>There are several wonderful ways to visualize and represent numbers, but one that interesed me the most is doing it through music. Since there are no simple and widely available tools to transform arbitrary numbers into music, I decided to make my own.
+The most popular musical scales are the major and the minor scales, each with 7 unique notes. One can simply translate a number to a musical scale, by playing the first note for number 0, the second note for number 1 and so on.</description>
+    </item>
+    
+  </channel>
+</rss>

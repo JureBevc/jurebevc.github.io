@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jure Bevc</title>
+    <link>http://localhost:8000/</link>
+    <description>Recent content on Jure Bevc</description>
+    <image>
+      <title>Jure Bevc</title>
+      <url>http://localhost:8000/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:8000/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Jan 2025 21:14:30 +0200</lastBuildDate><atom:link href="http://localhost:8000/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyanic - A blue/green deployment tool</title>
+      <link>http://localhost:8000/posts/cyanic-deployment-tool/</link>
+      <pubDate>Fri, 03 Jan 2025 21:14:30 +0200</pubDate>
+      
+      <guid>http://localhost:8000/posts/cyanic-deployment-tool/</guid>
+      <description>Introduction I’ve been working a tool that has changed the way I handle application deployments for personal projects. I developed Cyanic, a lightweight blue-green deployment tool written in Go. This journey has been incredibly rewarding, and I think it might resonate with fellow developers looking for a simpler way to manage deployments.
+Why Build Cyanic For those who might not be familiar, blue-green deployment is a strategy that allows you to switch between two identical environments—let’s call them &amp;ldquo;blue&amp;rdquo; and &amp;ldquo;green&amp;rdquo;—to ensure smooth updates with minimal downtime.</description>
+    </item>
+    
+    <item>
+      <title>hashlookup - A reverse lookup table tool</title>
+      <link>http://localhost:8000/posts/how-many-hashes/</link>
+      <pubDate>Sun, 03 Sep 2023 21:14:30 +0200</pubDate>
+      
+      <guid>http://localhost:8000/posts/how-many-hashes/</guid>
+      <description>Introduction Reverse hash lookup tables are data structures used to quicken the process of finding plaintext values corresponding to given hash values. Hash functions are designed to convert input data into fixed-length hash codes, making it challenging (impossible) to reverse-engineer the original input from the hash alone.
+Reverse hash lookup tables work by precomputing and storing pairs of plaintext and corresponding hash values. This allows for efficient and rapid identification of plaintext inputs when given a hash value, making them a valuable tool for attackers attempting to crack hashed passwords and a subject of interest for defenders seeking to enhance security measures by mitigating this type of vulnerability.</description>
+    </item>
+    
+    <item>
+      <title>Reading memory during runtime</title>
+      <link>http://localhost:8000/posts/reading-memory-during-runtime/</link>
+      <pubDate>Sat, 19 Aug 2023 12:36:58 +0200</pubDate>
+      
+      <guid>http://localhost:8000/posts/reading-memory-during-runtime/</guid>
+      <description>What and why Lately, I&amp;rsquo;ve been curious about reading the memory of a process during runtime. There are several use cases for this, but the ones that piqued my interest are anti-virus software and (illegal) botting software for video games. Game companies can invest a lot of resources into solving botting issues, but consistently detecting programs that read your game&amp;rsquo;s memory can be very difficult if the programs are not injecting anything directly into your running process.</description>
+    </item>
+    
+    <item>
+      <title>Map share</title>
+      <link>http://localhost:8000/posts/map-share/</link>
+      <pubDate>Wed, 18 Aug 2021 17:41:25 +0200</pubDate>
+      
+      <guid>http://localhost:8000/posts/map-share/</guid>
+      <description>With MapShare you can take photos and share them with people across the entire world map. The user can take pictures and publish them on the world map at their current location. All users can then browse the map and see what other people have published. Any published content is removed from the map after 24 hours.
+This project was developed using React Native with Expo and Firebase.
+This app was build as a proof of concept.</description>
+    </item>
+    
+    <item>
+      <title>Web crawler</title>
+      <link>http://localhost:8000/posts/web-crawler/</link>
+      <pubDate>Tue, 18 Aug 2020 17:41:32 +0200</pubDate>
+      
+      <guid>http://localhost:8000/posts/web-crawler/</guid>
+      <description>Since there are not many free tools available for quick and easy web scraping, I created my own web crawler for basic data scraping. The project is available on my GitHub. The web crawler uses the selenium framework with the geckodriver web driver to scrape websites and the Tkinter toolkit to create a simple GUI for quick use:
+This crawler was used to scrape over 4000 vaccination tweets from Twitter. The dataset is available on Kaggle.</description>
+    </item>
+    
+    <item>
+      <title>Musical series</title>
+      <link>http://localhost:8000/posts/musical-series/</link>
+      <pubDate>Tue, 18 Aug 2020 17:40:52 +0200</pubDate>
+      
+      <guid>http://localhost:8000/posts/musical-series/</guid>
+      <description>There are several wonderful ways to visualize and represent numbers, but one that interesed me the most is doing it through music. Since there are no simple and widely available tools to transform arbitrary numbers into music, I decided to make my own.
+The most popular musical scales are the major and the minor scales, each with 7 unique notes. One can simply translate a number to a musical scale, by playing the first note for number 0, the second note for number 1 and so on.</description>
+    </item>
+    
+    <item>
+      <title>Neural networks with genetic algorithms</title>
+      <link>http://localhost:8000/posts/neural-networks-with-genetic-algorithms/</link>
+      <pubDate>Sun, 18 Aug 2019 17:41:17 +0200</pubDate>
+      
+      <guid>http://localhost:8000/posts/neural-networks-with-genetic-algorithms/</guid>
+      <description>Neural networks are a popular and powerful tool in machine learning techniques. These networks can be used, implemented and designed in various ways, so that they best fit the problem they are trying to solve. At its most basic form, the neural network is represented by a connected set of nodes. Every connected is assigned a weight, that changes the information that travels between connected nodes.
+The performance of these networks can differ greatly depending on how we adjust these weights.</description>
+    </item>
+    
+    <item>
+      <title>Game Jams</title>
+      <link>http://localhost:8000/posts/game-jams/</link>
+      <pubDate>Sat, 18 Aug 2018 17:27:04 +0200</pubDate>
+      
+      <guid>http://localhost:8000/posts/game-jams/</guid>
+      <description>Games that are created in a short amount of time on a specific theme.
+Games jams are a fun way to do quick and interesting group projects. Although you can always compete in them alone, it&amp;rsquo;s always more enjoyable with your friends or even strangers.
+One of the most popular game jams is the Ludum Dare, where I participate with my friends whenever I get a chance. All of our Ludum Dare submissions can be viewed on my profile page.</description>
+    </item>
+    
+  </channel>
+</rss>
