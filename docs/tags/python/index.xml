@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Python on Jure Bevc</title>
-    <link>http://localhost:8000/tags/python/</link>
+    <link>https://jurebevc.github.io/tags/python/</link>
     <description>Recent content in Python on Jure Bevc</description>
     <image>
       <title>Jure Bevc</title>
-      <url>http://localhost:8000/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:8000/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://jurebevc.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jurebevc.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Aug 2023 12:36:58 +0200</lastBuildDate><atom:link href="http://localhost:8000/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Aug 2023 12:36:58 +0200</lastBuildDate><atom:link href="https://jurebevc.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reading memory during runtime</title>
-      <link>http://localhost:8000/posts/reading-memory-during-runtime/</link>
+      <link>https://jurebevc.github.io/posts/reading-memory-during-runtime/</link>
       <pubDate>Sat, 19 Aug 2023 12:36:58 +0200</pubDate>
       
-      <guid>http://localhost:8000/posts/reading-memory-during-runtime/</guid>
+      <guid>https://jurebevc.github.io/posts/reading-memory-during-runtime/</guid>
       <description>What and why Lately, I&amp;rsquo;ve been curious about reading the memory of a process during runtime. There are several use cases for this, but the ones that piqued my interest are anti-virus software and (illegal) botting software for video games. Game companies can invest a lot of resources into solving botting issues, but consistently detecting programs that read your game&amp;rsquo;s memory can be very difficult if the programs are not injecting anything directly into your running process.</description>
     </item>
     
     <item>
       <title>Web crawler</title>
-      <link>http://localhost:8000/posts/web-crawler/</link>
+      <link>https://jurebevc.github.io/posts/web-crawler/</link>
       <pubDate>Tue, 18 Aug 2020 17:41:32 +0200</pubDate>
       
-      <guid>http://localhost:8000/posts/web-crawler/</guid>
+      <guid>https://jurebevc.github.io/posts/web-crawler/</guid>
       <description>Since there are not many free tools available for quick and easy web scraping, I created my own web crawler for basic data scraping. The project is available on my GitHub. The web crawler uses the selenium framework with the geckodriver web driver to scrape websites and the Tkinter toolkit to create a simple GUI for quick use:
 This crawler was used to scrape over 4000 vaccination tweets from Twitter. The dataset is available on Kaggle.</description>
     </item>

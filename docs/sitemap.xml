@@ -2,78 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:8000/posts/cyanic-deployment-tool/</loc>
+    <loc>https://jurebevc.github.io/posts/cyanic-deployment-tool/</loc>
     <lastmod>2025-01-03T21:14:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/tags/deployment/</loc>
+    <loc>https://jurebevc.github.io/tags/deployment/</loc>
     <lastmod>2025-01-03T21:14:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/tags/go/</loc>
+    <loc>https://jurebevc.github.io/tags/go/</loc>
     <lastmod>2025-01-03T21:14:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/</loc>
+    <loc>https://jurebevc.github.io/</loc>
     <lastmod>2025-01-03T21:14:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/posts/</loc>
+    <loc>https://jurebevc.github.io/posts/</loc>
     <lastmod>2025-01-03T21:14:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/tags/</loc>
+    <loc>https://jurebevc.github.io/tags/</loc>
     <lastmod>2025-01-03T21:14:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/tags/tool/</loc>
+    <loc>https://jurebevc.github.io/tags/tool/</loc>
     <lastmod>2025-01-03T21:14:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/tags/cryptography/</loc>
+    <loc>https://jurebevc.github.io/tags/cryptography/</loc>
     <lastmod>2023-09-03T21:14:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/tags/data/</loc>
+    <loc>https://jurebevc.github.io/tags/data/</loc>
     <lastmod>2023-09-03T21:14:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/tags/databases/</loc>
+    <loc>https://jurebevc.github.io/tags/databases/</loc>
     <lastmod>2023-09-03T21:14:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/posts/how-many-hashes/</loc>
+    <loc>https://jurebevc.github.io/posts/how-many-hashes/</loc>
     <lastmod>2023-09-03T21:14:30+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/tags/memory/</loc>
+    <loc>https://jurebevc.github.io/tags/memory/</loc>
     <lastmod>2023-08-19T12:36:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/tags/python/</loc>
+    <loc>https://jurebevc.github.io/tags/python/</loc>
     <lastmod>2023-08-19T12:36:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/posts/reading-memory-during-runtime/</loc>
+    <loc>https://jurebevc.github.io/posts/reading-memory-during-runtime/</loc>
     <lastmod>2023-08-19T12:36:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/tags/firebase/</loc>
+    <loc>https://jurebevc.github.io/tags/firebase/</loc>
     <lastmod>2021-08-18T17:41:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/posts/map-share/</loc>
+    <loc>https://jurebevc.github.io/posts/map-share/</loc>
     <lastmod>2021-08-18T17:41:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/tags/react/</loc>
+    <loc>https://jurebevc.github.io/tags/react/</loc>
     <lastmod>2021-08-18T17:41:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/tags/react-native/</loc>
+    <loc>https://jurebevc.github.io/tags/react-native/</loc>
     <lastmod>2021-08-18T17:41:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/posts/web-crawler/</loc>
+    <loc>https://jurebevc.github.io/posts/web-crawler/</loc>
     <lastmod>2020-08-18T17:41:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/tags/javascript/</loc>
+    <loc>https://jurebevc.github.io/tags/javascript/</loc>
     <lastmod>2020-08-18T17:40:52+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/posts/musical-series/</loc>
+    <loc>https://jurebevc.github.io/posts/musical-series/</loc>
     <lastmod>2020-08-18T17:40:52+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/tags/ai/</loc>
+    <loc>https://jurebevc.github.io/tags/ai/</loc>
     <lastmod>2019-08-18T17:41:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/posts/neural-networks-with-genetic-algorithms/</loc>
+    <loc>https://jurebevc.github.io/posts/neural-networks-with-genetic-algorithms/</loc>
     <lastmod>2019-08-18T17:41:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/posts/game-jams/</loc>
+    <loc>https://jurebevc.github.io/posts/game-jams/</loc>
     <lastmod>2018-08-18T17:27:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:8000/categories/</loc>
+    <loc>https://jurebevc.github.io/categories/</loc>
   </url>
 </urlset>

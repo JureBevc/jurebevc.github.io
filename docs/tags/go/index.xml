@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Go on Jure Bevc</title>
-    <link>http://localhost:8000/tags/go/</link>
+    <link>https://jurebevc.github.io/tags/go/</link>
     <description>Recent content in Go on Jure Bevc</description>
     <image>
       <title>Jure Bevc</title>
-      <url>http://localhost:8000/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:8000/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://jurebevc.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jurebevc.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jan 2025 21:14:30 +0200</lastBuildDate><atom:link href="http://localhost:8000/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jan 2025 21:14:30 +0200</lastBuildDate><atom:link href="https://jurebevc.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyanic - A blue/green deployment tool</title>
-      <link>http://localhost:8000/posts/cyanic-deployment-tool/</link>
+      <link>https://jurebevc.github.io/posts/cyanic-deployment-tool/</link>
       <pubDate>Fri, 03 Jan 2025 21:14:30 +0200</pubDate>
       
-      <guid>http://localhost:8000/posts/cyanic-deployment-tool/</guid>
+      <guid>https://jurebevc.github.io/posts/cyanic-deployment-tool/</guid>
       <description>Introduction I’ve been working a tool that has changed the way I handle application deployments for personal projects. I developed Cyanic, a lightweight blue-green deployment tool written in Go. This journey has been incredibly rewarding, and I think it might resonate with fellow developers looking for a simpler way to manage deployments.
 Why Build Cyanic For those who might not be familiar, blue-green deployment is a strategy that allows you to switch between two identical environments—let’s call them &amp;ldquo;blue&amp;rdquo; and &amp;ldquo;green&amp;rdquo;—to ensure smooth updates with minimal downtime.</description>
     </item>
     
     <item>
       <title>hashlookup - A reverse lookup table tool</title>
-      <link>http://localhost:8000/posts/how-many-hashes/</link>
+      <link>https://jurebevc.github.io/posts/how-many-hashes/</link>
       <pubDate>Sun, 03 Sep 2023 21:14:30 +0200</pubDate>
       
-      <guid>http://localhost:8000/posts/how-many-hashes/</guid>
+      <guid>https://jurebevc.github.io/posts/how-many-hashes/</guid>
       <description>Introduction Reverse hash lookup tables are data structures used to quicken the process of finding plaintext values corresponding to given hash values. Hash functions are designed to convert input data into fixed-length hash codes, making it challenging (impossible) to reverse-engineer the original input from the hash alone.
 Reverse hash lookup tables work by precomputing and storing pairs of plaintext and corresponding hash values. This allows for efficient and rapid identification of plaintext inputs when given a hash value, making them a valuable tool for attackers attempting to crack hashed passwords and a subject of interest for defenders seeking to enhance security measures by mitigating this type of vulnerability.</description>
     </item>
